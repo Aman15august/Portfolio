@@ -11,10 +11,13 @@ const Hero = (props) => (
      My Personal Portfolio 
    </SectionTitle>
    <SectionText>
-   The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+   Hey there, This is Aman singh. I am an Front End  developer and Data Analyst.
+   Work as Intern in Cloudexcel.
    
     </SectionText>
-    <Button onClick={()=>window.location="https://reactjs.org/docs/getting-started.html"}>Learn more</Button>
+    { <Button onClick={()=>window.location.href="https://drive.google.com/file/d/1bvLPbaDnfqh7o8IcZYuHO7zAARKJ58NP/view?usp=sharing"}>my Resume</Button> }
+
+ 
  </LeftSection>
 
  </Section>
